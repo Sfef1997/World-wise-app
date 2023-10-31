@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "cityName": "Fanzara",
+      "country": "Spain",
+      "date": "2023-10-08T15:46:38.458Z",
+      "notes": "s",
+      "position": {
+        "lat": "40.054949943999496",
+        "lng": "-0.32272338867187506"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Culla",
+      "country": "Spain",
+      "date": "2023-10-09T17:39:44.235Z",
+      "notes": "sss",
+      "position": {
+        "lat": "40.27428705136608",
+        "lng": "-0.06797790527343751"
+      },
+      "id": 12
+    }
+  ]
+}
